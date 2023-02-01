@@ -9,14 +9,11 @@ Mi Objetivo es a través de las buenas prácticas,generar productos de calidad y
 En la actualidad trabajo en carga de sistema de datos ,atencion al publico, recepcion de documentacion,armado y escaneo de legajos. completado en base de datos , con un equipo interdiciplinario.
 
 
-const juli = programmer;
+   const juli = programmer;
    pronouns:"she","her";
    funtion(iLoveProgramming){
    let code=["JavaScript"]],["html],["Java"],["Python"],["Css"],["Mysql"];
-   
- }
+   }
   return iLoveProgramming;
 }
- alert(programmer);
-
- I love conneting with different people so if you want to say hi, I'll be happy to meet you more!.
+  I love conneting with different people so if you want to say hi, I'll be happy to meet you more!.
