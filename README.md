@@ -19,4 +19,4 @@ const juli = programmer;
 }
  alert(programmer);
 
- I love conneting with different people so if you want to say hi, i'll be happy to meet you more!.
+ I love conneting with different people so if you want to say hi, I'll be happy to meet you more!.
