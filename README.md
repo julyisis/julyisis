@@ -21,5 +21,7 @@ En la actualidad trabajo en carga de sistema de datos ,atención al público, re
 }
   I love conneting with different people so if you want to say hi, I'll be happy to meet you more!.
 
+  Julieta Gutierrez (www.linkedin.com/in/mjulietagutierrez)
+
 
 
