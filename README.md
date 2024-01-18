@@ -7,19 +7,20 @@ Mi Objetivo es a través de las buenas prácticas,generar productos de calidad y
 Abriendo nuevas posibilidades de aprendisaje y crecimiento profesional
 
 
-Soy estudiante de 2 año de la Tecnicatura Universitaria en Programación de sistemas en (U.T.N) y habiendo cursado  junto al equipo de Oracle Next Education y Alura Latam las formaciones backend  y frontend. 
+Soy Técnica Universitaria en Programación de Sistemas en (U.T.N) y en el 2024 comienzo la Tecnicatura en Desarrollo Web en (UNER)Universidad Nacional de Entre Rios.
+habiendo cursado  junto al equipo de Oracle Next Education y Alura Latam las formaciones backend  y frontend. 
 Full stack developers: los lenguajes vistos Java,Phyton,JavaScript,html,css,mysql,php.
 Formandome tambien en  cursos en Tecno 3F de la matanza en Introduccional Desarrollo web, Testing de software,Base de Datos(sql),PHP y Mysql,Fundamentos primeros Programas en plataforma mumuki
 Realizando pasantia en el diario el acento.news
 
 
-En la actualidad trabajo en carga de sistema de datos ,atención al público, recepción de documentación,armado y escaneo de legajos. completado en base de datos , con un equipo interdiciplinario.
+En la actualidad trabajo como Referente de carga de Legajo Único en  sistema de datos en el Área de Niñez y Adolescencia ,atención al público, recepción de documentación,armado y escaneo de legajos. completado en base de datos(exel) , trabajando con un equipo interdiciplinario es indispensable la buena comunicación.
 
 
    const juli = programmer;
    pronouns:"she","her";
    funtion(iLoveProgramming){
-   let code=["JavaScript"]],["html],["Java"],["Python"],["Css"],["Mysql"],["PHP"];
+   let code=["JavaScript"]],["html,Desarrollo web"],["JavaScript"],["Python"],["Mysql"],["PHP"],["Testing de Software"]
    }
   return iLoveProgramming;
 }
