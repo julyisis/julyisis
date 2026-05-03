@@ -7,17 +7,16 @@ Mi Objetivo es a través de las buenas prácticas,generar productos de calidad y
 Abriendo nuevas posibilidades de aprendisaje y crecimiento profesional
 
 
-Soy Técnica Universitaria en Programación de Sistemas en (U.T.N) y estoy curasando las ultimas 4 materias(Finalizacion estimada 2026)de la Tecnicatura en Desarrollo Web en (UNER)Universidad Nacional de Entre Rios.
+Soy Técnica Universitaria en Programación de Sistemas en (U.T.N) y estoy cursando las ultimas 4 materias(Finalizacion estimada 2026)de la Tecnicatura en Desarrollo Web en (UNER)Universidad Nacional de Entre Rios.
 Habiendo cursado  junto al equipo de Oracle Next Education y Alura Latam las formaciones backend  y frontend. 
 Full stack developer: los lenguajes vistos Java|Python|JavaScript|Html|Msql|Soft Skills.
 Formandome también en cursos en Tecno 3F de la Matanza en Programacion Orientada al Desarrollo web|Testing de Software|Base de Datos(SQL)|Introduccion a PHP con Mysql|JavaScript|Introduccion a Python|Introduccion a Ciberseguridad|Fundamentos primeros Programas en plataforma mumuki.
 Programo mi Futuro: 0 a Experto Digital|Publicidad Avanzada|Marketing de Contenido & UGC.
 
 Realizando pasantia en el diario el acento.news
-
-
-He trabajado por 12 años  como Referente de carga de Legajo Único en  sistema de datos en el Área de Niñez y Adolescencia(E.T.I) de DGP ,atención al público, recepción de documentación,armado y escaneo de legajos. completado en base de datos(exel)migrnado dicha tabla a php myadmind haciendo consultas sql, trabajando con un equipo Técnico interdiciplinario es indispensable la buena comunicación.
-Y ahora trabajo en DGP, misma repartición,usando el programa de GDE(Gestion Documental Electrónica)y mi funcion es Administrativa y Secretaria del Delegado Regional Zona Sur.
+Trabajo en DGP(Direccion General de Protección) hacen 19 años.
+He trabajado por 12 años  como Referente de carga de Legajo Único en  sistema de datos en el Área de Niñez y Adolescencia en el area de (E.T.I) de DGP ,atención al público, recepción de documentación,armado y escaneo de legajos. completado en base de datos(exel)migrnado dicha tabla a php myadmind haciendo consultas sql, trabajando con un equipo Técnico interdiciplinario es indispensable la buena comunicación.
+Y en la actualidad estoy  trabajando en DGP,usando el programa de GDE(Gestion Documental Electrónica)y mi funcion es Administrativa y Secretaria del Delegado Regional Zona Sur.
 
 
    const juli = programmer;
