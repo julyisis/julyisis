@@ -9,8 +9,9 @@ Abriendo nuevas posibilidades de aprendisaje y crecimiento profesional
 
 Soy Técnica Universitaria en Programación de Sistemas en (U.T.N) y en el 2024 comienzo la Tecnicatura en Desarrollo Web en (UNER)Universidad Nacional de Entre Rios.
 Habiendo cursado  junto al equipo de Oracle Next Education y Alura Latam las formaciones backend  y frontend. 
-Full stack developers: los lenguajes vistos Java|Phyton|JavaScript|html|,mysql|Soft Skills.
-Formandome tambien en  cursos en Tecno 3F de la Matanza en Programacion Orientada al Desarrollo web| Testing de software|Base de Datos(sql)|Introduccion a PHP con Mysql|Fundamentos primeros Programas en plataforma mumuki.
+Full stack developer: los lenguajes vistos Java|Python|JavaScript|Html|Msql|Soft Skills.
+Formandome también en cursos en Tecno 3F de la Matanza en Programacion Orientada al Desarrollo web|Testing de Software|Base de Datos(SQL)|Introduccion a PHP con Mysql|JavaScript|Introduccion a Python|Introduccion a Ciberseguridad|Fundamentos primeros Programas en plataforma mumuki.
+Programo mi Futuro: 0 a Experto Digital|Publicidad Avanzada|Marketing de Contenido & UGC.
 
 Realizando pasantia en el diario el acento.news
 
